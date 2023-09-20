@@ -13,6 +13,7 @@ In that environment, the requirements can be installed with:
 ```shell
 pip install -r requirements.txt -f https://download.pytorch.org/whl/torch_stable.html
 pip install mmcv-full==1.3.7  # requires the other packages to be installed first
+conda install -c conda-forge cvxopt # package for optimal weight computing
 ```
 
 Further, please download the MiT weights from SegFormer using the
