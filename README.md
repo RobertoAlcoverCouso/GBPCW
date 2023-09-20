@@ -45,7 +45,6 @@ The final folder structure should look like this:
 
 ```none
 ├── HRDA
-├── ├── ...
 ├── data
 │   ├── cityscapes
 │   │   ├── leftImg8bit
@@ -61,6 +60,8 @@ The final folder structure should look like this:
 │   │   ├── RGB
 │   │   ├── GT
 │   │   │   ├── LABELS
+├── ├── ├── ...
+├── ├── ...
 ├── ...
 ```
 
