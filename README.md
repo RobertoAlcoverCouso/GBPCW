@@ -23,6 +23,11 @@ the instructions for a manual download within the script.
 sh tools/download_checkpoints.sh
 ```
 
+Create the directory to dump logs and results:
+```shell
+mkdir work_dirs
+```
+
 ## Setup Datasets
 
 **Cityscapes:** Please, download leftImg8bit_trainvaltest.zip and
