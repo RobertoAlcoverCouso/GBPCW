@@ -156,6 +156,7 @@ The most relevant files are:
 GBPCW is based on the following open-source projects. We thank their
 authors for making the source code publicly available.
 * [HRDA](https://github.com/lhoyer/HRDA)
+* [LOW](https://github.com/cajosantiago/LOW)
 * [DAFormer](https://github.com/lhoyer/DAFormer)
 * [MMSegmentation](https://github.com/open-mmlab/mmsegmentation)
 * [SegFormer](https://github.com/NVlabs/SegFormer)
